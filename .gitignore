@@ -1,0 +1,4 @@
+node_modules
+request.rest
+.env
+index copy.js
